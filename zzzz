@@ -1,0 +1,29 @@
+[33mcommit a50f3c4de11d369e771309b8306675747b960d4d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: RacconWebFenix <dfenixweb@gmail.com>
+Date:   Sat Oct 24 10:05:03 2020 -0300
+
+    Boolean, Null, Number, Strings, Symbol, Undefined, Object
+
+[33mcommit d1fc21d3f61c01bbf3dd745d260f07e65af60663[m
+Author: RacconWebFenix <dfenixweb@gmail.com>
+Date:   Fri Oct 23 11:47:22 2020 -0300
+
+    currying, hoisting, imutabilidade, variaveis, escopo
+
+[33mcommit 8bd96b10494faa03bc11f9b6bfca9b1db2ab6525[m
+Author: RacconWebFenix <dfenixweb@gmail.com>
+Date:   Fri Oct 23 09:42:57 2020 -0300
+
+    Tipagens, Funcoes e Clousure
+
+[33mcommit 861d7b5a2e0b7fb651d201b4a8dffe75ee6c3a7d[m
+Author: Marcos Cesar Domingues <67762118+RacconWebFenix@users.noreply.github.com>
+Date:   Fri Oct 23 08:34:30 2020 -0300
+
+    Update README.md
+
+[33mcommit ce34269d1e638d1db612d662298ef0dc61596832[m
+Author: Marcos Cesar Domingues <67762118+RacconWebFenix@users.noreply.github.com>
+Date:   Fri Oct 23 08:33:38 2020 -0300
+
+    Initial commit
