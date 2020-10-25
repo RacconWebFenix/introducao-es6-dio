@@ -15,7 +15,7 @@ const user = {
 console.log(user.name)
 console.log(user.getNameArrowFn());
 console.log(user.getName());
-
+//As funções anonimas ou arrow functions estão relacionadas ao contexto de criação no escopo onde não pode ser elevadas.
 //this referencia o objeto user e o name a propriedade do objeto user.name = "Nome do bojeto... "
 /*
 Lexical this
